@@ -1,0 +1,26 @@
+.card-body{
+    box-shadow: 0 0 20px 7px rgba(0,0,0,0.1);
+}
+
+.card-img-top{
+    max-width: 500px;  
+}
+
+.col-md-3 img{
+width: 100%;
+}
+
+.container h1,button{
+    text-align: center;
+}
+
+.footer {
+    padding: 1rem;
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    width: 100%;
+    background-color: gray;
+    color: white;
+    text-align: center;
+}
